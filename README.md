@@ -3,3 +3,5 @@
 We are practicing git!! 
 
 Adding new text bcuz ynot
+
+Let's get it poppin
